@@ -1,0 +1,35 @@
+body {
+    background-color:beige;
+}
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:unset;
+    font-weight:bold;
+}
+#hint {
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:normal;
+    font-weight:bold;
+}
+#camera {
+    width:500px;
+    height:400px;
+    border-color:cadetblue;
+}
+img {
+    width:500px;
+    height:400px;
+    border-radius:100px;
+    box-shadow:0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    padding:10%;
+
+}
+.copy_right_footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+}
+img:hover{
+    border-radius:140px
+}
